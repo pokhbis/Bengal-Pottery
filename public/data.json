@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "title": "Beauty of TajMahal",
+        "info": "5Days/6Nights",
+        "img": "https://cms.musafir.com/uploads/1920x1080_Beauty_of_Taj_Mahal_1_6ca4fe9fe7.jpg",
+        "description": "When we think about health, diet and exercise are typically the first things that come to mind.Our mind and body are interconnected and affect each other tremendously. ",
+        "price": "1200"
+    },
+    {
+        "id": "2",
+        "title": "Paris Hill Tour",
+        "info": "3Days/4Nights",
+        "img": "https://www.tourx-react.egenslab.com/static/media/d-4.3738ba23.png",
+        "description": "Creating a healthy daily routine is a simple yet effective way to build consistency when it comes to your health. Not only does your daily routine impact your overall health.",
+        "price": "800"
+    },
+    {
+        "id": "3",
+        "title": "Lake Garda",
+        "info": "2Days/3Nights",
+        "img": "https://media.tacdn.com/media/attractions-content--1x-1/0c/04/8b/11.jpg",
+        "description": "Following these nutritional strategies can help you reduce or even eliminate some risk factors, such as reducing total and LDL; lowering blood pressure, blood sugars and triglycerides.",
+        "price": "400"
+    },
+    {
+        "id": "4",
+        "title": "Mount Everest",
+        "info": "4Days/5Nights",
+        "img": "https://i.guim.co.uk/img/media/583e20f67c8a2d4b47f28d23f4b95c6c765b252f/295_380_5374_3224/master/5374.jpg?width=1200&quality=85&auto=format&fit=max&s=a0e36b457ca004d571455db8254deb70",
+        "description": "This article reviews several high-quality exercise regimens for men of all experience levels to maximize muscle and strength gains while ensuring adequate recovery.",
+        "price": "950"
+    },
+    {
+        "id": "5",
+        "title": "Amalfi Costa",
+        "info": "1Days/2Nights",
+        "img": "https://cdn.kimkim.com/files/a/content_articles/featured_photos/89b7784f74186be16b21ac86a62287c6f0bc88ca/big-79e11f71a3fedb7760a2201c46e31155.jpg",
+        "description": "Stress management is a wide spectrum of techniques help a person's level of stress, especially chronic stress, usually for the purpose of and for the motive of improving everyday functioning.",
+        "price": "300"
+    },
+    {
+        "id": "6",
+        "title": "French Rivira",
+        "info": "3Days/4Nights",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBFOOtSPEsG_9rPBULlAfsWKH3sVnhygi8nQ&usqp=CAU",
+        "description": "Mental health in childhood means reaching developmental and emotional milestones, and learning healthy social skills and how to cope when there are problems.",
+        "price": "750"
+    }
+]

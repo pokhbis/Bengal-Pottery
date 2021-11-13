@@ -1,0 +1,18 @@
+.order-form{
+margin-top: 30px;
+border: 2px solid grey;
+
+margin-left: 10%;
+margin-right: 10%;
+}
+.order-hearder{
+    margin-top: 50px;
+    font-size:28px;
+    color: rgb(83, 14, 14);
+    font-weight: 700;
+}
+input {
+    border: 0;
+    outline: 0;
+    border-bottom: 2px solid rgb(115, 115, 136);
+}

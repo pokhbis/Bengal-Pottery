@@ -1,0 +1,33 @@
+.blog-img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.blog-card{
+    background-color: rgb(219, 229, 230);
+    border-radius: 5px;
+    border: cornflowerblue;
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+}
+.review-btn{
+background-color: rgb(231, 78, 116);
+color: white;
+padding: 5px;
+border-radius: 5px;
+}
+.review-title{
+    font-size:28px;
+    color: rgb(83, 14, 14);
+    font-weight: 700;
+
+}
+.review-title-text{
+    font-weight: 400;
+    font-size: 18px;
+    font-family:sans-serif
+}

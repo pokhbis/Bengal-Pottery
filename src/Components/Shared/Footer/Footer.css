@@ -1,0 +1,40 @@
+.footer-container{
+    background-color: rgba(50, 52, 53, 0.329);
+}
+.footer-logo{
+    width: 250px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 18px;
+   
+}
+.footer-text{
+    color: white;
+}
+.footer-description{
+    color: rgb(43, 20, 20);
+    margin-left: 40px;
+}
+.footer-social-media{
+    list-style: none;
+    font-size: 20px;
+    font-weight: 300;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.icon-img{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    padding-right: 5px;
+} 
+ .footer-btn{
+    color: white;
+    background-color: tomato;
+} 
+.footer-input{
+border-radius: 5px;
+}
+.footer-end{
+    background-color: rgba(38, 41, 40, 0.603);
+}

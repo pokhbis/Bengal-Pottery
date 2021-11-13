@@ -1,0 +1,33 @@
+.blog-img{
+    width: 250px;
+    height: 250px;
+    border-radius: 30%;
+}
+.blog-title{
+    font-size: 20px;
+}
+.blog-header{
+    color: rgb(83, 14, 14);
+}
+.blog-img-position{
+    margin-left: 50px;
+    padding-bottom: 10px;
+}
+/* .blog-background{
+    color: rgb(37, 51, 51);
+} */
+.blog-btn{
+    background-color: rgb(119, 91, 20);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    margin-top: 15px;
+}
+/* for dashboard button */
+.blog-btn-update{
+    background-color: rgb(71, 110, 240);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    margin-top: 15px;
+}
