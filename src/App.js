@@ -24,6 +24,7 @@ import Review from './Components/Home/Review/Review';
 import PurchaseOrder from './Components/Order/PurchaseOrder/PurchaseOrder';
 import DashboardHome from './Components/Dashboard/DashboardHome/DashboardHome';
 import Payment from './Components/Order/Payment/Payment';
+import ReviewBody from './Components/Home/Review/ReviewBody';
 
 
 
@@ -61,9 +62,12 @@ function App() {
             <Route path='/register'>
               <Register></Register>
             </Route>
-            <Route path='/review'>
-              <Review></Review>
+            <Route path='/reviewBody'>
+              <ReviewBody></ReviewBody>
             </Route>
+            {/* <Route path='/review'>
+              <Review></Review>
+            </Route> */}
             <PrivateRoute path='/orderedProducts/:productId'>
               <PurchaseOrder></PurchaseOrder>
             </PrivateRoute>

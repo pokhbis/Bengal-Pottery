@@ -34,10 +34,11 @@ const Header = () => {
                                 <Link to="/blog" ><Button className="item">Blog</Button></Link>
 
                                 <Link to="/explore" ><Button className="item">Explore</Button></Link>
-                                <Link to="/review" ><Button className="item">Review</Button></Link>
+                                <Link to="/reviewBody" ><Button className="item">Review</Button></Link>
                                 {
                                     user?.email ?
                                         <Box>
+                                            {/* <h5> Welcome :{user.name}</h5> */}
                                             <Button onClick={logout} className="item">Logout</Button>
                                             <NavLink style={{ color: '' }} to="/dashboard" ><Button className="item">Dashboard</Button></NavLink>
                                         </Box>

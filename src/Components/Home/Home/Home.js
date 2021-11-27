@@ -6,6 +6,7 @@ import Banner from '../Banner/Banner';
 import Blog from '../Blog/Blog';
 import Comments from '../Comments/Comments';
 import Review from '../Review/Review';
+import ReviewBody from '../Review/ReviewBody';
 import WhyUs from '../WhyUs/WhyUs';
 
 const Home = () => {
@@ -14,7 +15,8 @@ const Home = () => {
             <Header></Header>
             <Banner></Banner>
             <Products></Products>
-            <Review></Review>
+            <ReviewBody></ReviewBody>
+            {/* <Review></Review> */}
             <WhyUs></WhyUs>
             <Blog></Blog>
             <Comments></Comments>

@@ -19,8 +19,11 @@ const AddProducts = () => {
             body: JSON.stringify(data),
         })
             .then((res) => res.json())
-            .then((result) => console.log(result));
-        console.log(data);
+            .then((result) => {
+                alert('Congratulation! Product added successfully.')
+                console.log(result)
+            });
+
     };
     return (
         <div>

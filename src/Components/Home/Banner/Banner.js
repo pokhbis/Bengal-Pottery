@@ -18,7 +18,7 @@ const Banner = () => {
                     />
                     <Carousel.Caption className="text-white fw-bolder">
                         <h3>Explore The Earth To Find Beauty!</h3>
-                        <p>Pottery is one of the oldest human inventions, originating before the Neolithic period, with ceramic objects like the Gravettian culture Venus of Dolni Vestonice figurine discovered in the Czech Republic.</p>
+                        <p>Pottery is one of the oldest human inventions, originating before the Neolithic period, with ceramic objects like the Gravettian culture Venus of Folni Vestonice figurine discovered in the Czech Republic.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
